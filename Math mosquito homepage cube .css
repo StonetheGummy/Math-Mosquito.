@@ -44,4 +44,6 @@ body{
     
     background-image:-webkit-repeating-linear-gradient(top,#8BFFFF,#C5FFFF);
 }
-#derivatives
+#derivatives{
+  font-size: 10px;
+}
