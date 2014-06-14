@@ -45,11 +45,11 @@ body{
     background-image:-webkit-repeating-linear-gradient(top,#8BFFFF,#C5FFFF);
 }
 #derivatives{
-  font-size: 10px;
+  font-size: 12px;
 }
 #intro{
   font-size:15px;
 }
 #tricks{
-  font-size:5px;
+  font-size:12px;
 }
