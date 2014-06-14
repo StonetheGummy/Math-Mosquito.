@@ -12,10 +12,10 @@
 }
 .face {
   position: absolute;
-  height: 360px;
-  width: 360px;
+  height: 400px;
+  width: 400px;
   padding: 20px;
-  background-color: rgba(50, 50, 50, 0.7);
+  background-color: rgba(50, 50, 50, 1);
 }
 #cube .one  {
   -webkit-transform: rotateX(90deg) translateZ(200px);
