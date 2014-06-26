@@ -1,0 +1,40 @@
+* {
+    background-color: #37ffff;
+    font-family: Comic Sans MS;
+}
+.nav {
+    border-radius: 5px;
+	border: 2px solid red;
+	background-color: white;
+	display: inline;
+	position: relative;
+}
+#navselect {
+    margin-top: 15px;
+    margin-left: 10px;
+    background-color:blue;
+}
+#bar {
+    height: 50px;
+    position: fixed;
+    background-color: blue;
+    width: 5000px;
+    margin-left: -8px;
+    margin-top: -10px
+}
+a {
+    text-decoration: none;
+    color:#000000;
+}
+ .nav:hover {
+        background-color: red;
+}
+#nav {
+    background-color:red;
+    display: inline;
+    border-radius: 5px;
+	border: 2px solid red;
+}
+#space-taker {
+    height: 30px;
+}
